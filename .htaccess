@@ -1,5 +1,0 @@
-
-ErrorDocument 500 "Houston, we have a problem."
-ErrorDocument 401 "Houston"
-ErrorDocument 404 "Houston"
-
