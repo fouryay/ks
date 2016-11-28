@@ -1,5 +1,3 @@
-<Files ~ "^\.(htaccess|htpasswd)$">
-deny from all
-</Files>
+
 ErrorDocument 404 errors/404.html
-order deny,allow
+
