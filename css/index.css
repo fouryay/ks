@@ -1,15 +1,6 @@
-hml {
+html {
     background-image: url("https://www.nasa.gov/sites/default/files/images/672309main_M107_full.jpg");
 }
-.test {
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-}
+
 /* The background color is glaucous, which is the color of the natural coating on grapes and plums.
 #FFC40C, called Mikado, is the color of the text, and probably named after the Gilbert and Sullivan Opera.*/
