@@ -1,7 +1,7 @@
-body {
-    background-image: url("https://raw.githubusercontent.com/fouryay/ks/master/img/potw1643a.jpg");
+html {
+    background-image: url("https://www.nasa.gov/sites/default/files/images/672309main_M107_full.jpg");
 }
-.button {
+.test {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
