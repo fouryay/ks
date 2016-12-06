@@ -1,5 +1,5 @@
 body {
- background-color:antiquewhite;
+ background-image: url("https://www.nasa.gov/sites/default/files/images/672309main_M107_full.jpg");
  
 }
 h1{
@@ -7,6 +7,9 @@ h1{
   font-family:Helvetica;
   text-align:center;
     background-color: lightblue;
+  width: 200px;
+    padding: 25px;
+    border: 25px solid blue;
   }
 figure{
     text-align:center;
