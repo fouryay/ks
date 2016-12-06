@@ -1,4 +1,6 @@
 body {
+ background-color:antiquewhite;
+ 
 }
 h1{
  color:#c8efab; 
@@ -8,4 +10,7 @@ h1{
   }
 figure{
     text-align:center;
+}
+.button{
+text-align:center;
 }
