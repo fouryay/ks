@@ -16,10 +16,8 @@ figure{
 }
 div.btn1{
 text-align:center;
- background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-decoration: none;
-    font-size: 16px;
+ background-color: lightblue;
+  width: 24px;
+    padding: 5px;
+    border: 5px solid blue;
 }
