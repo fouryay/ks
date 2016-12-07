@@ -14,7 +14,7 @@ h1{
 figure{
     text-align:right;
 }
-.btn1 {
+div.btn1 {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
