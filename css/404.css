@@ -17,5 +17,5 @@ figure{
 div.btn1{
 width: 20px;
 background-color:lightblue;
- text-align:center;
+ display: inline-block;
 }
