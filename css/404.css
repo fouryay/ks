@@ -15,9 +15,6 @@ figure{
     text-align:right;
 }
 div.btn1{
-text-align:center;
- background-color: lightblue;
-  width: 24px;
-    padding: 5px;
-    border: 5px solid blue;
+background-color:lightblue;
+ text-align:center;
 }
