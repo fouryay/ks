@@ -8,6 +8,6 @@
 var element = document.getElementById("header");
 element.innerHTML = "New Header";
 </script>
- $("#text").load("../text/flatland1.text"); // element's id should be in string form
+ $("#text").load("../text/flatland1.txt"); // element's id should be in string form
 </body>
 </html>
