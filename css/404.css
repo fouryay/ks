@@ -13,7 +13,11 @@ h1{
   }
 figure{
     text-align:right;
+ 
 }
 div.button {
+ 
+ color: white;
+  background-color: #4CAF50; /* Green */
   text-align:center;
 }
