@@ -1,15 +1,19 @@
 h1{
 color: #1d59ba;
+font-family: Geneva;
 }
 p{
 text-align:left;
+font-family:Geneva;
 }
 .original{
 text-align:left;
 font-size: 0.75em;
+font-family: Helvetica;
 }
 
 .translated{
 text-align:right;
 font-size: 0.75em;
+font-family: Helvetica;
 }
