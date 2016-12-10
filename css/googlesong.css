@@ -11,10 +11,7 @@ font-family:Arial;
     width: 100px;
     margin-right: 8px;
 }
-.translated {
-  text-align:right;
-    width: 100px;
-    margin-right: 8px;
+
 body {
   width: 70%;
   margin: 40px auto;
@@ -22,3 +19,12 @@ body {
   padding: 20px 40px;
   box-shadow: 0 0 20px #999;
     }
+.translated {
+    display: inline-block;
+    background-color: #72AD21;
+    width: 150px;
+    height: 75px;
+    margin: 10px;
+    border: 3px solid #73AD21;
+    text-align:right;
+}
