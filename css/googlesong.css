@@ -8,12 +8,14 @@ font-family:Arial;
 }
 .original{
 text-align:left;
+width: 400px;
 font-size: 0.75em;
 font-family: Helvetica;
 }
 
 .translated{
 text-align:right;
+width: 400px;
 font-size: 0.75em;
 font-family: Helvetica;
 }
