@@ -6,7 +6,6 @@ alert (name + " is amazing.");
 }
 $.get("http://web.roblox.com/UserCheck/DoesUsernameExist?username="+name).success(function(r){
 if (r.success==false) {
-console.log("true");
 alert ("The username: " + name + " is currently available.");
 return;
 }
